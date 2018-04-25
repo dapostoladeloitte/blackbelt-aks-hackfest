@@ -4,9 +4,9 @@ cloneURL: "https://github.com/dapostoladeloitte/blackbelt-aks-hackfest.git"
 sharedSecret: "create-something-super-secret"
 # MAKE SURE YOU CHANGE THIS. It's basically a password
 github:
-  token: "REPLACE"
+  token: "a30e9030db5fcc6f5c6d9b51a62215914ad9b046"
 secrets:
-  acrServer: REPLACE
-  acrUsername: REPLACE
-  acrPassword: "REPLACE"
+  acrServer: "dsarg.azrco.io"
+  acrUsername: "dsarg"
+  acrPassword: "vNorIbvqde6VZrlBhih=as74ssfL3yZ5"
 vcsSidecar: "deis/git-sidecar:v0.11.0"
