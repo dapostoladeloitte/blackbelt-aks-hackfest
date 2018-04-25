@@ -14,7 +14,7 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-        Double sigh
+        Double sigh et al
       </div>
       <div class="col-lg-6">
       </div>
