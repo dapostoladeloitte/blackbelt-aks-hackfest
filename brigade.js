@@ -5,3 +5,4 @@ function kubeJobRunner (config, k) {
         `kubectl set image deployment/heroes-web-deploy heroes-web-cntnr=dsarg.azurecr.io/azureworkshop/rating-web:${config.get("imageTag")}`
     ]
 }
+
